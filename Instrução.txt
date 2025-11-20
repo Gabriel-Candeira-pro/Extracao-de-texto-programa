@@ -1,0 +1,1 @@
+Para executar o programa é necessário rodar o orquestrador das classes, arquivo "Application.java" em src\main\java\orchestrator\
